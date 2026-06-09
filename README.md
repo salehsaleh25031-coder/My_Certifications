@@ -5,5 +5,5 @@
 
 | اسم الشهادة | الجهة المانحة | رابط التحقق الرقمي | معانية الشهادة |
 | :--- | :--- | :--- | :---: |
-| دورة أساسيات بايثون | Coursera / Google | [رابط التحقق](https://link-to-verification.com) | [عرض الصورة](./assets/python-basics.png) |
+| دورة أساسيات بايثون | Coursera / Google | [رابط التحقق](https://link-to-verification.com) | [عرض الصورة] ![Uploading python_proggraming_Basics_course.jpg…]()
 | شهادة مطور الويب المتكامل | Udacity | [رابط التحقق](https://link-to-verification.com) | [عرض الصورة](./assets/web-dev.png) |
