@@ -5,6 +5,6 @@
 
 | اسم الشهادة | الجهة المانحة | رابط التحقق الرقمي | معانية الشهادة |
 | :--- | :--- | :--- | :---: |
-| دورة أساسيات بايثون | Huawei Talent |[رابط التحقق](https://e.huawei.com/en/talent/ict-academy/#/ict-courses-detail?courseId=vcOWZnWYfGUd6GbanwreF81xAts) | [عرض الصورة] <img width="2480" height="3507" alt="Data Management and Analytics" src="https://github.com/user-attachments/assets/53d27863-b674-4b77-a956-56a1cf54cfbb" />
+| دورة أساسيات بايثون | Huawei Talent |[رابط التحقق](https://e.huawei.com/en/talent/ict-academy/#/ict-courses-detail?courseId=vcOWZnWYfGUd6GbanwreF81xAts) | [عرض الصورة] <img width="905" height="1280" alt="python_proggraming_Basics_course" src="https://github.com/user-attachments/assets/d1d8b375-1061-4dd6-a398-19c656aca931" />
 
 | شهادة مطور الويب المتكامل | Udacity | [رابط التحقق](https://link-to-verification.com) | [عرض الصورة](./assets/web-dev.png) |
